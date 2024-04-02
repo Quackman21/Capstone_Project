@@ -24,7 +24,6 @@ To get started with this project:
 5. Run the Jupyter notebooks, ensuring the file paths are correctly set up for your environment.
 
 # About the Algorithm 
-# Baseball Swing Performance Ranking
 
 ## Overview
 This script analyzes baseball swing data to rank players based on their performance metrics. It employs several key steps to process the data, calculate composite scores for each player, and rank them accordingly.
