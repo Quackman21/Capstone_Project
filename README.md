@@ -54,5 +54,3 @@ This script analyzes baseball swing data to rank players based on their performa
 ## Purpose
 The aim of this script is to provide a holistic evaluation of baseball players' swings by combining various performance metrics into a single score. This approach allows for a comprehensive comparison and ranking of players, highlighting those with superior swing mechanics.
 
-## Usage
-To use this script, ensure you have a dataset containing the relevant metrics (Bat Speed, Rotational Acceleration, On Plane Efficiency) for each player. The script will process this dataset to output a ranked list of players based on their swing performance.
