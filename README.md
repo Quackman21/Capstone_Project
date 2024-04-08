@@ -69,5 +69,9 @@ The aim of this script is to provide a holistic evaluation of baseball players' 
 ## Conclusion
 Integrating technology with sports analytics provides profound insights into player performance, enabling targeted coaching and player development strategies. This project illustrates the potential of data-driven evaluations in baseball, presenting a scalable model for assessing player swings and fostering continuous improvement.
 
+## Results 
+
+![Final Code and Results](images/Code w Results.png)
+
 
 
