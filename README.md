@@ -28,6 +28,9 @@ To get started with this project:
 ## Overview
 This script analyzes baseball swing data to rank players based on their performance metrics. It employs several key steps to process the data, calculate composite scores for each player, and rank them accordingly.
 
+## Purpose
+The aim of this script is to provide a holistic evaluation of baseball players' swings by combining various performance metrics into a single score. This approach allows for a comprehensive comparison and ranking of players, highlighting those with superior swing mechanics.
+
 ## Features
 
 ### Data Grouping
@@ -51,6 +54,20 @@ This script analyzes baseball swing data to rank players based on their performa
 - The script outputs the names of the players along with their composite scores and ranks, sorted by rank.
 - This ranking allows for easy identification of the top performers based on the analyzed metrics.
 
-## Purpose
-The aim of this script is to provide a holistic evaluation of baseball players' swings by combining various performance metrics into a single score. This approach allows for a comprehensive comparison and ranking of players, highlighting those with superior swing mechanics.
+## Results and final deliverables
+
+## Key Findings
+- **Outliers Identified**: Players like Matt Schuler and Colin Bergmann stood out with exceptional bat speeds, while Michael Gould and Michael Long demonstrated quick rotational abilities. Zach Liggett and Harry Oden excelled in on-plane efficiency, showcasing the diverse strengths within the team.
+- **Algorithm-Based Ranking**: An algorithm was developed to rank players by analyzing key swing metrics including bat speed, rotational acceleration, and on-plane efficiency, alongside their standard deviations to reward consistency.
+- **Top Performer**: Matt Schuler emerged as the standout player, ranking highest across significant metrics, emphasizing the importance of a consistent and powerful swing.
+
+## Deliverables
+- **Cleaned Dataset**: A CSV file containing the cleaned and prepared data, ready for analysis.
+- **Algorithm Implementation**: Python script for calculating composite scores and ranking players based on their swing metrics.
+- **Analysis Report**: Detailed documentation of the analysis process, findings, and visual data representations.
+
+## Conclusion
+Integrating technology with sports analytics provides profound insights into player performance, enabling targeted coaching and player development strategies. This project illustrates the potential of data-driven evaluations in baseball, presenting a scalable model for assessing player swings and fostering continuous improvement.
+
+
 
