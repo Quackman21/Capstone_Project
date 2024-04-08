@@ -73,6 +73,10 @@ Integrating technology with sports analytics provides profound insights into pla
 
 ![Code and Final Rankings](https://github.com/Quackman21/Capstone_Project/blob/main/Code%20w%20Results.png)
 
+## Key Metrics Table with Players 
+
+![Player metrics table](https://github.com/Quackman21/Capstone_Project/blob/main/Player%20Metrics%20Table.png)
+
 
 
 
