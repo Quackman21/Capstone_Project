@@ -71,7 +71,8 @@ Integrating technology with sports analytics provides profound insights into pla
 
 ## Results 
 
-![Final Code and Results](images/Code w Results.png)
+![Final ranking results and code]([https://github.com/Quackman21/Capstone_Project/blob/main/Code%20w%20Results.png?raw=true](https://github.com/Quackman21/Capstone_Project/blob/main/Code%20w%20Results.png?raw=true))
+
 
 
 
