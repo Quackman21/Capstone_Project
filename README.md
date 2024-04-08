@@ -54,7 +54,7 @@ The aim of this script is to provide a holistic evaluation of baseball players' 
 - The script outputs the names of the players along with their composite scores and ranks, sorted by rank.
 - This ranking allows for easy identification of the top performers based on the analyzed metrics.
 
-## Results and final deliverables
+## Results and Final Deliverables
 
 ## Key Findings
 - **Outliers Identified**: Players like Matt Schuler and Colin Bergmann stood out with exceptional bat speeds, while Michael Gould and Michael Long demonstrated quick rotational abilities. Zach Liggett and Harry Oden excelled in on-plane efficiency, showcasing the diverse strengths within the team.
