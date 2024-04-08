@@ -71,7 +71,8 @@ Integrating technology with sports analytics provides profound insights into pla
 
 ## Results 
 
-![Final ranking results and code]([https://github.com/Quackman21/Capstone_Project/blob/main/Code%20w%20Results.png?raw=true](https://github.com/Quackman21/Capstone_Project/blob/main/Code%20w%20Results.png?raw=true))
+![Final ranking results of the baseball swing analysis](https://github.com/Quackman21/Capstone_Project/blob/main/images/Code%20w%20Results.png?raw=true)
+
 
 
 
